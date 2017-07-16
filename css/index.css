@@ -48,13 +48,13 @@ div .main-text {
 }
 
 .main-text .main-p {
-  color: white;
+  color: #1C768B;
   font: 30px Helvetica, sans-serif;
   margin-top: 8px;
  }
 
 h1 {
-  color: white;
+  color: #1C768B;
   font: bold 64px Helvetica, sans-serif;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -68,7 +68,7 @@ div .sub-text {
 }
 
 p {
-  color: white;
+  color: #1C768B;
   font: 20px Helvetica, sans-serif;
   margin: 2px 0px;
   line-height: 140%;
